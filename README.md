@@ -1,6 +1,8 @@
 Jemina ja Minja
 Harjoitus 2 - Laitetietojen kerääminen
+
 Kerättävät tiedot:
+
 hostname:
 R1 ja R2
 
