@@ -1,4 +1,5 @@
-Jemina ja Minja
+Jemina ja Minja (ei ehditty tekemään, kuin vain 2 harjoitukseen asti)
+
 Harjoitus 2 - Laitetietojen kerääminen
 
 Kerättävät tiedot:
